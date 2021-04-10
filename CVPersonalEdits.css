@@ -1,0 +1,38 @@
+/* Loading */
+.wanderingCubesItem-WPXqao:first-child {
+	background-image: url() !important;
+	background-size: auto ;
+ 	background-position: center ;
+}
+ 
+.icon-27yU2q {
+    background-color: transparent; /* Server Icon Shading */
+}
+
+.app,
+.app-2rEoOp {
+	margin-top: 10px; /* HSL Hoger */
+}
+
+.sidebar-2K8pFh, .sidebar-2K8pFh.hasNotice-1XRy4h { 
+ 	margin-left: 10px; /* Channels Lijst Op Lijn met Server Lijst */
+}
+
+.inner-1ilYF7 {
+	box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.0); /* Shadows Weg Rond Boxen */
+}
+
+/* Server List Shading */
+.guilds-1SWlCJ [class*=expandedFolderBackground] {
+    background: rgba(0,0,0,0.3);
+	bottom: 0px;
+}
+
+/* NO chat resize*/
+.membersWrap-2h-GB4:hover{
+    left: 0;
+	margin-left:10px;
+ 	border-radius: 10px !important;
+    transition: 0.3s all ease-out;
+	background: rgba(0, 0, 0 , 0.7);
+}
