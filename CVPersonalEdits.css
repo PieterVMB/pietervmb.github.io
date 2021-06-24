@@ -27,12 +27,3 @@
     background: rgba(0,0,0,0.3);
 	bottom: 0px;
 }
-
-/* NO chat resize*/
-.membersWrap-2h-GB4:hover{
-    left: 0;
-	margin-left:10px;
- 	border-radius: 10px !important;
-    transition: 0.3s all ease-out;
-	background: rgba(0, 0, 0 , 0.7);
-}
