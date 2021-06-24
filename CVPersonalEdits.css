@@ -27,3 +27,16 @@
     background: rgba(0,0,0,0.3);
 	bottom: 0px;
 }
+/* Status Next To Username in DM on Top */
+.status-1XNdyw[aria-label="Do Not Disturb"] > svg > rect {
+    fill: var(--dnd-color) !important;
+}
+.status-1XNdyw[aria-label="Offline"] > svg > rect {
+    fill: var(--offline-color) !important;
+}
+.status-1XNdyw[aria-label="Online"] > svg > rect {
+    fill: var(--online-color) !important;
+}
+.status-1XNdyw[aria-label="Idle"] > svg > rect {
+    fill: var(--idle-color) !important;
+}
