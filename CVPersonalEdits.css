@@ -70,3 +70,8 @@
 .attachButton-2WznTc, .markup-2BOw-j, .translateButton-DhP9x8, .button-3AYNKb, .fontSize18Padding-2RUesG {
     margin-top: 4px;
 }
+
+/* TopRoleEverywhere Fix */
+.roleStyle-jQ7KI2, .tag-wWVHyf, .headerText-3Uvj1Y {
+    display: inline-flex !important;
+}
