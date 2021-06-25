@@ -55,17 +55,16 @@
 }
 .chatContent-a9vAAp >  .form-2fGMdU {
 	padding: 0px;
-	padding-bottom: 0px;
-	background-color: var(--panels-opacity);
+	background: var(--panels-opacity);
 	border-radius: var(--panels-radius);
 }
-.channelTextArea-rNsIhG.channelTextArea-2VhZ6z {
-	box-shadow: 0 0px 0px 0px rgba(255, 255, 255, 0);
+.channelTextArea-rNsIhG, .channelTextArea-2VhZ6z {
+	box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0);
 	margin-bottom: 0px;
 }
-.channelTextArea-2VhZ6z .attachButton-2WznTc {
-    padding: 10px 10px 10px 12px;
-	margin-bottom: 5px;
+.channelTextArea-2VhZ6z, .attachButton-2WznTc {
+	padding-bottom: 4px;
+	padding-top: 5px;
 }
 ..attachButton-2WznTc, .markup-2BOw-j, .translateButton-DhP9x8, .button-3AYNKb, .fontSize18Padding-2RUesG, .emojiButtonNormal-TdumYh, .emojiButtonHovered-1rWNal {
     margin-top: 4px;
