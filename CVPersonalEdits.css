@@ -69,9 +69,12 @@
 .attachButton-2WznTc, .markup-2BOw-j, .translateButton-DhP9x8, .button-3AYNKb, .fontSize18Padding-2RUesG, .emojiButtonNormal-TdumYh, .emojiButtonHovered-1rWNal {
     margin-top: 0px;
 }
-.typing-2GQL18, .base-gE7OpD {
+.typing-2GQL18, .base-gE7OpD {  /* "x" Is Typing Lower */
 	bottom: -4px;
 	z-index: inherit;
+}
+.scrollerSpacer-avRLaA{  /* Chat Messages Lower Fix */
+	height: 15px;
 }
 
 /* TopRoleEverywhere Fix */
