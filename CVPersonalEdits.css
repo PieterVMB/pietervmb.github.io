@@ -79,3 +79,14 @@
     display: inline-flex !important;
 	font-size: 16px;
 }
+	/* Custom Donator Tag */
+.contents-2mQqc9 > img ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: none;
+  font-size: 16px;
+  color: currentcolor;
+  text-shadow: 0 0 0px currentcolor;
+  border: 1px solid;
+  border-radius: 3px;
+  margin-left: 8px;
+  padding: 0 5px;
+}
